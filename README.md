@@ -1,3 +1,4 @@
+#Swaglab is an e-commerce web application automated using Selenium 
 Swaglab is an e-commerce web application automated using Selenium automation tool with Extent Reporting
 This repository showcases automated tests for a web application, implemented using Selenium, a powerful tool for web automation. 
 With integrated Extent reporting, this project provides comprehensive and visually appealing reports to track test execution results.
